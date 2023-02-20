@@ -1,6 +1,7 @@
-# Sword Lake: Discusstion
+# Sword Lake: Discussion
 Q: How did the lake got the name
 Story:
+```
     Many years ago, ways back to the 2nd century BC,
     ancient Viet Nam, An Nam was dominating by the Han Empire, ancient China.
     For many years, Vietnam was under control of many China's Empires (Tang, Song, Yuan).
@@ -19,4 +20,4 @@ Story:
     decided to help An Nam people.
     # Quest: Ask the audience to guess the way Dragon King used to help
 
-
+```
