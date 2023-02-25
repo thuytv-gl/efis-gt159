@@ -16,7 +16,7 @@ Story:
         a province located 300km (180 miles) away from Hanoi
     But with limited resources against the superior weapons and highly trained army,
     the lost of the rebellion is inevitable.
-    Seeing this dismal situation, Duc Long Quan (Dragon King of the seas)
+    Seeing this dismal situation, Duc Long Quan (Dragon King)
     decided to help An Nam people.
     # Quest: Ask the audience to guess the way Dragon King used to help
 
