@@ -1,4 +1,4 @@
-My group is: Group 9, with Thúy Quỳnh
+Group 9: Thúy Quỳnh
 
 ---
 TODO: research about
