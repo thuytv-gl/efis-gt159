@@ -87,5 +87,8 @@
 - Built in 19th century
 - Shaped like a tube so it called Tube House structure, very tradition at the time
 - Has two small yard inside to catch light and venting wind (ventilation system)
-- Walk flow in 1st floor: Shop -> Yard -> Guest room -> 
+- Meaning of the painting "Carp beholding the moon": eager to learn
+  + The moon is represent the perfection
+  + Story of Carp transform in to Dragon
+- Why does the house has such high doorsteps 
 
