@@ -1,4 +1,4 @@
-## Vocab 
+## Vocabulary
 - Institutions
 - Royal Academy: Quoc Tu Giam
 - Escort: Tuy tung (negative meaning)
