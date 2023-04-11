@@ -1,10 +1,9 @@
+# DEMO 01 - SWORD LAKE + OLD QUARTER
 # Places visited
 - Ly Thai To statue
 - Pen tower
 - Ancient House 87 Ma May
 - Cong coffee
-
-# Topic discussed
 
 ## General info about the country, the king and the city
 - Ly Thai To biography
