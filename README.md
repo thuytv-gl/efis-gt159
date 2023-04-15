@@ -1,7 +1,7 @@
 ## TODO
 |DATE|TODO|NOTE|
 |---|---|---|
-|10/04 to 24/04|pseudo tour with a classmate||
+|10/04 to 24/04|pilot tour with a classmate||
 |26/04|class end||
 
 ## [HOMEWORKs](hw-sum.md)
