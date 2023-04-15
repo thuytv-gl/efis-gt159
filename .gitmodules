@@ -1,3 +1,3 @@
-[submodule "efis-artifacts"]
-	path = efis-artifacts
+[submodule "artifacts"]
+	path = artifacts
 	url = git@github.com:thuytv-gl/efis-artifacts.git
