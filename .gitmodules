@@ -1,3 +1,6 @@
 [submodule "artifacts"]
 	path = artifacts
 	url = git@github.com:thuytv-gl/efis-artifacts.git
+[submodule "materials"]
+	path = materials
+	url = git@github.com:thuytv-gl/efis-artifacts.git
